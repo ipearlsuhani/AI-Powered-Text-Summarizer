@@ -1,0 +1,5 @@
+review_date,summary_date,model,coverage_rating_1_to_5,factual_consistency_rating_1_to_5,unsupported_claims,important_omissions,reviewer_notes
+2026-11-01 22:01:28,2026-11-01 21:27:31,sshleifer/distilbart-cnn-6-6,4,4,Not recorded,Not recorded,
+2026-11-01 22:21:15,2026-11-01 22:18:49,sshleifer/distilbart-cnn-6-6,5,5,Not recorded,Not recorded,better
+2026-11-01 22:23:38,2026-11-01 21:27:31,sshleifer/distilbart-cnn-6-6,3,5,incredible.,can use more easy lang.,fine
+2026-11-01 22:26:37,2026-11-01 22:22:13,sshleifer/distilbart-cnn-6-6,2,4,Not recorded,Not recorded,None
