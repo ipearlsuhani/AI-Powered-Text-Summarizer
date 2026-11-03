@@ -3,3 +3,8 @@ pandas
 torch
 transformers<5
 sentencepiece
+supabase
+pypdf
+python-docx
+python-pptx
+reportlab
